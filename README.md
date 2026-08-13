@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ASHishYADAav2003/dsa/tree/master/0005-longest-palindromic-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/ASHishYADAav2003/dsa/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,4 +28,16 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ASHishYADAav2003/dsa/tree/master/0005-longest-palindromic-substring) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ASHishYADAav2003/dsa/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ASHishYADAav2003/dsa/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ASHishYADAav2003/dsa/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
