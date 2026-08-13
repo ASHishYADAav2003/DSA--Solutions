@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ASHishYADAav2003/dsa/tree/master/0005-longest-palindromic-substring) |
+| [0242-valid-anagram](https://github.com/ASHishYADAav2003/dsa/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ASHishYADAav2003/dsa/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -31,6 +32,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ASHishYADAav2003/dsa/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ASHishYADAav2003/dsa/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -40,4 +42,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ASHishYADAav2003/dsa/tree/master/0387-first-unique-character-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/ASHishYADAav2003/dsa/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
