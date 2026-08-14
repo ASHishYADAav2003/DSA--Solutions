@@ -9,6 +9,7 @@
 | [0136-single-number](https://github.com/ASHishYADAav2003/dsa/tree/master/0136-single-number) |
 | [1732-find-the-highest-altitude](https://github.com/ASHishYADAav2003/dsa/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ASHishYADAav2003/dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1991-find-the-middle-index-in-array](https://github.com/ASHishYADAav2003/dsa/tree/master/1991-find-the-middle-index-in-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/ASHishYADAav2003/dsa/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/ASHishYADAav2003/dsa/tree/master/1991-find-the-middle-index-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
