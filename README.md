@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ASHishYADAav2003/dsa/tree/master/0136-single-number) |
+| [1732-find-the-highest-altitude](https://github.com/ASHishYADAav2003/dsa/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ASHishYADAav2003/dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Bit Manipulation
 |  |
@@ -46,4 +47,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ASHishYADAav2003/dsa/tree/master/0242-valid-anagram) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/ASHishYADAav2003/dsa/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
