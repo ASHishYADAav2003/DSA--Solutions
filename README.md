@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ASHishYADAav2003/dsa/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/ASHishYADAav2003/dsa/tree/master/0136-single-number) |
 | [1732-find-the-highest-altitude](https://github.com/ASHishYADAav2003/dsa/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ASHishYADAav2003/dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ASHishYADAav2003/dsa/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/ASHishYADAav2003/dsa/tree/master/0053-maximum-subarray) |
 ## Manacher
 |  |
 | ------- |
@@ -51,4 +53,8 @@
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/ASHishYADAav2003/dsa/tree/master/1732-find-the-highest-altitude) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ASHishYADAav2003/dsa/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
