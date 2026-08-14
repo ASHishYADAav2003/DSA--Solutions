@@ -7,6 +7,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/ASHishYADAav2003/dsa/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/ASHishYADAav2003/dsa/tree/master/0136-single-number) |
+| [1480-running-sum-of-1d-array](https://github.com/ASHishYADAav2003/dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ASHishYADAav2003/dsa/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ASHishYADAav2003/dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1991-find-the-middle-index-in-array](https://github.com/ASHishYADAav2003/dsa/tree/master/1991-find-the-middle-index-in-array) |
@@ -53,6 +54,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/ASHishYADAav2003/dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ASHishYADAav2003/dsa/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/ASHishYADAav2003/dsa/tree/master/1991-find-the-middle-index-in-array) |
 ## Divide and Conquer
