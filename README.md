@@ -8,6 +8,7 @@
 | [0048-rotate-image](https://github.com/ASHishYADAav2003/dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ASHishYADAav2003/dsa/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/ASHishYADAav2003/dsa/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ASHishYADAav2003/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/ASHishYADAav2003/dsa/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ASHishYADAav2003/dsa/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/ASHishYADAav2003/dsa/tree/master/1480-running-sum-of-1d-array) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ASHishYADAav2003/dsa/tree/master/0005-longest-palindromic-substring) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ASHishYADAav2003/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ASHishYADAav2003/dsa/tree/master/0283-move-zeroes) |
 ## String
 |  |
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ASHishYADAav2003/dsa/tree/master/0048-rotate-image) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ASHishYADAav2003/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
