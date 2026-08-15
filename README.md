@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ASHishYADAav2003/dsa/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/ASHishYADAav2003/dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ASHishYADAav2003/dsa/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ASHishYADAav2003/dsa/tree/master/0075-sort-colors) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ASHishYADAav2003/dsa/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/ASHishYADAav2003/dsa/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/ASHishYADAav2003/dsa/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ASHishYADAav2003/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ASHishYADAav2003/dsa/tree/master/0283-move-zeroes) |
@@ -91,4 +93,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ASHishYADAav2003/dsa/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ASHishYADAav2003/dsa/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
