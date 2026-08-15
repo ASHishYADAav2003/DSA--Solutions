@@ -9,6 +9,7 @@
 | [0053-maximum-subarray](https://github.com/ASHishYADAav2003/dsa/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/ASHishYADAav2003/dsa/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/ASHishYADAav2003/dsa/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/ASHishYADAav2003/dsa/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/ASHishYADAav2003/dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ASHishYADAav2003/dsa/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ASHishYADAav2003/dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ASHishYADAav2003/dsa/tree/master/0005-longest-palindromic-substring) |
+| [0283-move-zeroes](https://github.com/ASHishYADAav2003/dsa/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
