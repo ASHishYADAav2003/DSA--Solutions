@@ -15,6 +15,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ASHishYADAav2003/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/ASHishYADAav2003/dsa/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ASHishYADAav2003/dsa/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/ASHishYADAav2003/dsa/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/ASHishYADAav2003/dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ASHishYADAav2003/dsa/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ASHishYADAav2003/dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
